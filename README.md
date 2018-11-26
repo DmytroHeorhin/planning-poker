@@ -1,1 +1,1 @@
-# Planning Poker - ASP.NET SignalR + Angular application
+# Planning Poker: ASP.NET SignalR + Angular application
