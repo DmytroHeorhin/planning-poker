@@ -1,0 +1,6 @@
+<div *ngIf="!roomName">
+    <app-home></app-home>
+</div>
+<div *ngIf="roomName">
+    <app-room [roomName]="roomName"></app-room>
+</div>
